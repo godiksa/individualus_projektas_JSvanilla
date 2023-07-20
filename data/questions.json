@@ -1,0 +1,187 @@
+[
+  {
+    "id": 0,
+    "text": "In your journey, which of the following would you choose?",
+    "answers": [
+      {
+        "text": "Relaxing",
+        "value": "relaxing",
+        "image": "./assets/relax.jpg"
+      },
+      {
+        "text": "Group Tour with a Guide",
+        "value": "touring",
+        "image": "./assets/tour.jpg"
+      },
+      {
+        "text": "Exploring on your own",
+        "value": "adventurous",
+        "image": "./assets/explore.jpg"
+      },
+      {
+        "text": "A little bit of everything",
+        "image": "./assets/everything.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "How far would you go for your journey?",
+    "answers": [
+      {
+        "text": "Local",
+        "image": "",
+        "icon": ["fa-solid", "fa-car"]
+      },
+      {
+        "text": "Regional",
+        "image": "",
+        "icon": ["fa-solid", "fa-bus"]
+      },
+      {
+        "text": "International",
+        "image": "",
+        "icon": ["fa-solid", "fa-plane"]
+      },
+      {
+        "text": "Intercontinental",
+        "image": "",
+        "icon": ["fa-solid", "fa-suitcase"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "How expensive is your journey?",
+    "answers": [
+      {
+        "text": "Budget",
+        "value": "Cheap",
+        "amount": 500,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi sit, excepturi, quae magnam alias id corporis expedita explicabo voluptatem architecto facilis earum repudiandae porro atque, fuga dolores rem fugiat necessitatibus!"
+      },
+      {
+        "text": "Mid-Grade",
+        "amount": 2000,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi sit, excepturi, quae magnam alias id corporis expedita explicabo voluptatem architecto facilis earum repudiandae porro atque, fuga dolores rem fugiat necessitatibus!"
+      },
+      {
+        "text": "Luxury",
+        "amount": 5000,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi sit, excepturi, quae magnam alias id corporis expedita explicabo voluptatem architecto facilis earum repudiandae porro atque, fuga dolores rem fugiat necessitatibus!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "How much time do you have?",
+    "answers": [
+      {
+        "text": "Weekend",
+        "image": "",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi sit, excepturi, quae magnam alias id corporis expedita explicabo voluptatem architecto facilis earum repudiandae porro atque, fuga dolores rem fugiat necessitatibus!"
+      },
+      {
+        "text": "1-2 weeks",
+        "image": "",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi sit, excepturi, quae magnam alias id corporis expedita explicabo voluptatem architecto facilis earum repudiandae porro atque, fuga dolores rem fugiat necessitatibus!"
+      },
+      {
+        "text": "Month+",
+        "image": "",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi sit, excepturi, quae magnam alias id corporis expedita explicabo voluptatem architecto facilis earum repudiandae porro atque, fuga dolores rem fugiat necessitatibus!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Who is sharing the journey?",
+    "answers": [
+      {
+        "text": "Alone",
+        "image": "./assets/alone.jpg"
+      },
+      {
+        "text": "Couple",
+        "image": "./assets/couple.jpg"
+      },
+      {
+        "text": "With kids",
+        "value": "kids",
+        "image": "./assets/family.jpg"
+      },
+      {
+        "text": "With friends",
+        "value": "friends",
+        "image": "./assets/friends.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Choose what you like most",
+    "answers": [
+      {
+        "text": "Mountains",
+        "image": ""
+      },
+      {
+        "text": "Architecture",
+        "image": ""
+      },
+      {
+        "text": "Museums",
+        "image": ""
+      },
+      {
+        "text": "Beaches",
+        "image": ""
+      },
+      {
+        "text": "Festivals",
+        "image": ""
+      },
+      {
+        "text": "Forests",
+        "image": ""
+      },
+      {
+        "text": "Culture",
+        "image": ""
+      },
+      {
+        "text": "Desert",
+        "image": ""
+      },
+      {
+        "text": "Parks",
+        "image": ""
+      },
+      {
+        "text": "Cities",
+        "image": ""
+      },
+      {
+        "text": "Food",
+        "image": ""
+      },
+      {
+        "text": "Amusement Parks",
+        "value": "amusement",
+        "image": ""
+      },
+      {
+        "text": "Animals",
+        "image": ""
+      },
+      {
+        "text": "Cruize",
+        "image": ""
+      },
+      {
+        "text": "Shopping",
+        "image": ""
+      }
+    ]
+  }
+]
